@@ -15,7 +15,7 @@ public class hotelconwhile {
             int mh = 0;
             int eh = 0;
             int ah = 0;
-            int af = 0;
+           
             System.out.println("-INGRESE NUMERO DE HOTEL-");
             System.out.println("1-HOTEL PANAMERICANO");
             System.out.println("2-HOTEL FAENA");
